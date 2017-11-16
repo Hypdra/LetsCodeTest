@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Sala>
+  <Rezerwacja>
+    <Start>2017-11-16 10:00</Start>
+    <Stop>2017-11-16 12:00</Stop>
+  </Rezerwacja>
+  <Rezerwacja>
+    <Start>2017-11-16 14:00</Start>
+    <Stop>2017-11-16 16:00</Stop>
+  </Rezerwacja>
+</Sala>
